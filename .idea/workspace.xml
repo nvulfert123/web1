@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2047d353-1edf-43fe-9a79-38aaafca97f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="2047d353-1edf-43fe-9a79-38aaafca97f6" name="Changes" comment="added class Request.java (homework 1*)">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Request.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +67,21 @@
       <option name="presentableId" value="Default" />
       <updated>1706002301720</updated>
     </task>
+    <task id="LOCAL-00001" summary="added class Request.java (homework 1*)">
+      <created>1707988904129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707988904129</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added class Request.java (homework 1*)">
+      <created>1707989061953</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707989061953</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +94,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added class Request.java (homework 1*)." />
+    <MESSAGE value="added class Request.java (homework 1*)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added class Request.java (homework 1*)" />
   </component>
 </project>
